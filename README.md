@@ -8,8 +8,9 @@ This github page contains code for the "Dysfunction of the episodic memory netwo
 - "rl_results2surf.m" generates individuals gii representations of either SPM or SWE niis.
 - "rl_surf_results_bidirectional.m" plots effects both in the same map and thresholds the maps to a desired threshold. 
 
-
 In the paper, we made use of the disease progression model (DPM) by Lorenzi et al. (2019). Details for the DPM can be found at this website: https://disease-progression-modelling.github.io/pages/models/non_parametric_DPM.html 
 The code itself can be found at https://gitlab.inria.fr/epione/GP_progression_model_V2
 
-For any further questions, please send an inquiry to rene.lattmann@dzne.de
+Additionally, we provide the source data accompanying the manuscript. 
+
+For any questions, please send an inquiry to rene.lattmann@dzne.de
