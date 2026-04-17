@@ -1,6 +1,6 @@
 # EMN_dysfunction
 
-This github page contains code for the "Dysfunction of the episodic memory network in the Alzheimer's disease cascade" (Lattmann et al., accepted). 
+This github page contains code for the "Dysfunction of the episodic memory network in the Alzheimer's disease cascade" (Lattmann et al., 2026, Nature Communications, available at nature.com/articles/s41467-026-71831-z). 
 
 - "GGPlots_DysfunctionPaper.R" contains the plot functions for the main figures of the manuscript.
 - "Parallel_mediation.R" contains the Lavaan model syntax for the parallel mediation analysis. 
